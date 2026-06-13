@@ -166,6 +166,6 @@ RPi-Ackermann-Drive-Car/
 
 ## Author
 
-Developed as part of a robotics and embedded systems project focusing on vehicle dynamics, motor control, mechanical design, and Raspberry Pi-based automation.
+Developed as part of a robotics and embedded systems project focusing on vehicle dynamics, motor control, mechanical design, and Raspberry Pi-based automation. Contribution made by Sahyadri student Varun Bhandary for his excellent designing and coding work done on the project.
 
 ---
