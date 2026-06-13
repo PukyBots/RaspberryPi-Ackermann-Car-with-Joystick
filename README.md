@@ -38,10 +38,6 @@ A Raspberry Pi-based Ackermann steering robot car powered by a BLDC motor and co
 - Custom 3D-Printed Parts
 - Wheels and Chassis Components
 
-<div align="center">
-<img src="images/1.png" width="400">
-</div>
-
 ---
 
 ## System Architecture
@@ -75,6 +71,10 @@ The vehicle was designed using CAD software and fabricated using 3D printing tec
 - Servo-based steering linkage
 - BLDC motor mounting assembly
 - Modular structure for easy maintenance
+
+<div align="center">
+<img src="images/2.png" width="400">
+</div>
 
 ---
 
