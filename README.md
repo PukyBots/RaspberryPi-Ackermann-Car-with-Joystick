@@ -3,6 +3,10 @@
 A Raspberry Pi-based Ackermann steering robot car powered by a BLDC motor and controlled using a joystick. The project integrates embedded systems, motor control, mechanical design, and robotics to provide smooth throttle and steering control through a custom-built vehicle platform.
 
 <div align="center">
+<img src="images/3.png" width="400">
+</div>
+
+<div align="center">
 <img src="images/car.gif" width="400">
 </div>
 
@@ -21,7 +25,7 @@ A Raspberry Pi-based Ackermann steering robot car powered by a BLDC motor and co
 - GitHub documentation for design, assembly, and implementation
 
 <div align="center">
-<img src="images/3.png" width="400">
+<img src="images/2.png" width="400">
 </div>
 
 ---
@@ -37,6 +41,10 @@ A Raspberry Pi-based Ackermann steering robot car powered by a BLDC motor and co
 - Ackermann Steering Assembly
 - Custom 3D-Printed Parts
 - Wheels and Chassis Components
+
+<div align="center">
+<img src="images/4.png" width="400">
+</div>
 
 ---
 
@@ -58,6 +66,10 @@ The joystick inputs are processed by the Raspberry Pi, which generates control s
 - BLDC motor throttle through the ESC
 - Steering angle through the servo motor
 
+<div align="center">
+<img src="images/5.png" width="400">
+</div>
+
 ---
 
 ## Mechanical Design
@@ -71,10 +83,6 @@ The vehicle was designed using CAD software and fabricated using 3D printing tec
 - Servo-based steering linkage
 - BLDC motor mounting assembly
 - Modular structure for easy maintenance
-
-<div align="center">
-<img src="images/2.png" width="400">
-</div>
 
 ---
 
