@@ -43,7 +43,7 @@ A Raspberry Pi-based Ackermann steering robot car powered by a BLDC motor and co
 - Wheels and Chassis Components
 
 <div align="center">
-<img src="images/4.png" width="600" height="500">
+<img src="images/4.png" width="800" height="600">
 </div>
 
 ---
@@ -67,7 +67,7 @@ The joystick inputs are processed by the Raspberry Pi, which generates control s
 - Steering angle through the servo motor
 
 <div align="center">
-<img src="images/5.png" width="600" height="500">
+<img src="images/5.png" width="800" height="800">
 </div>
 
 ---
